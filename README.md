@@ -16,7 +16,7 @@ https://create-react-app.dev/docs/getting-started
 2. React 설치
   iterm / terminal 에서 코드 실행
   cd src/main
-  npx create-react-app frontend	# npx create-reeact 프로젝트명
+  npx create-react-app frontend	# npx create-react 프로젝트명
 
 3. 실행해서 확인
   cd frontend	# cd 프로젝트명
